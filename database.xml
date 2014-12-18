@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddressBook>
+    <Contact>
+		<Name>1</Name>
+		<Email>1</Email>
+		<Phone>1</Phone>
+	</Contact>
+    <Contact>
+		<Name>2</Name>
+		<Email>2</Email>
+		<Phone>2</Phone>
+	</Contact>
+</AddressBook>
